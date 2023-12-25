@@ -104,6 +104,7 @@ nav h1:hover {
 }
 
 #name img {
+        padding-right: 10px;
     height: 40px;
     width: 40px;
 }
